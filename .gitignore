@@ -1,0 +1,26 @@
+*.CFUserTextEncoding
+*.DS_Store
+*.anydesk/
+*.astah/
+/.atlassian-companion/
+/.atom/
+/.bash_history
+/.bxd/
+/.cups/
+/.gitconfig
+/.lesshst
+        ../../../../.yandex/
+        ../../../../.zsh_history
+        ../../../../.zsh_sessions/
+        ../../../../Applications/
+        ../../../../Bitrix24/
+        ../../../
+        ../../../../Documents/
+        ../../../../Downloads/
+        ../../../../Library/
+        ../../../../Movies/
+        ../../../../Music/
+        "../../../../OneDrive - \320\236\320\236\320\236
+        /Pictures/
+                ../../../../Public/
+                ../../../../Yandex.Disk.localized/
